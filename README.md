@@ -10,3 +10,6 @@ The tool is intended to support renewable energy production from variouse plant 
 * ANN_Driver.py - the file is general driver for the model in Python language. It includes theree examples of model input data, and lets the user specifies their own. It includes also simple data visualization script. Recommended for advanced users
 * ANN_Driver_GUI.py - a variant of above script, with simple GUI based on CustomTkinter library.
 * ANN_model_deployed.pth - this file holds deployed version of finall pre-trained ANN system. It is standallone package, and cannot be edited by the user. However, you can conveniently import this model into your projects using PyTorch library (or equivalent in non-python environments).
+
+# Related articles
+Postawa, K., Gaze, B., Knutel, B., Kułażyński, M., 2024. Application of triple-branch artificial neural network system for catalytic pellets combustion. Journal of Environmental Management 366, 121678. https://doi.org/10.1016/j.jenvman.2024.121678
